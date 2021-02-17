@@ -4,3 +4,6 @@ Proyecto de limpieza de datos, donde se necesita luego de este proceso analizar 
  Su propósito es encontrar como mejorar la productividad durante las horas laborales.
 
 En este proyecto se espera convertir los datos  en datos cuantitativos medibles  para luego poder analizarlos.
+
+datos sin procesar = Absenteeism-data.csv
+datos limpios = Absence_Cleaned.csv
